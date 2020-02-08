@@ -1,0 +1,2 @@
+# docker-stdlinux2
+ふつうのLinuxプログラミング本学習用
